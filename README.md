@@ -1,2 +1,3 @@
 this is my new git test<br>
-By anjan chaudhary 
+By anjan chaudhary (name)
+
